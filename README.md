@@ -1,5 +1,3 @@
-# Jeu de Combat Naval
-
 ## Installation et Lancement
 
 ### Option 1 : Utilisation de Maven
