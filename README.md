@@ -1,5 +1,7 @@
 ## Installation et Lancement
 
+JAVA 21 !
+
 ### Option 1 : Utilisation de Maven
 
 1. Assurez-vous d'avoir Maven installé sur votre système.
