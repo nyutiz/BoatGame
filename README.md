@@ -14,7 +14,7 @@
 
 ## Accès au Jeu
 
-Une fois le programme lancé, ouvrez votre navigateur et accédez à : 'localhost:8080'
+Une fois le programme lancé, ouvrez votre navigateur et accédez à : [localhost:8080](localhost:8080)
 
 ## Envoi de Commandes
 
